@@ -1,3 +1,3 @@
 <?php
 
-echo "index.php update";
+echo "index.php update bug fix";
